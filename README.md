@@ -8,5 +8,5 @@
   
 - Xiaoying Lü, Yan Huang, Yiwen Zhang, et al. A high-throughput study on endothelial cell adhesion and growth mediated by adsorbed serum protein via signaling pathway PCR array. Regenerative Biomaterials, 5:1, pp. 25–34, February 2018. doi: 10.1093/rb/rbx030 (Cited by 3) 
 
-- Li-xin Xiang, Jian-zhong Shao, Yi-wen Zhang, et al. Deep sequencing-based transcriptome profiling analysis of bacteria- challenged Lateolabrax japonicus reveals insight into the immune-relevant genes in marine fish. BMC Genomics, 2010, 11:472. doi: 10.1186/1471-2164-11-472 (Cited by 189)
+- Li-xin Xiang, Jian-zhong Shao, Yi-wen Zhang, et al. Deep sequencing-based transcriptome profiling analysis of bacteria- challenged Lateolabrax japonicus reveals insight into the immune-relevant genes in marine fish. BMC Genomics, 2010, 11:472. doi: 10.1186/1471-2164-11-472 (Cited by 189) 
  
